@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Group_1919_hwOne</string>
+    <string name="btn1">Кнопочка 1</string>
+    <string name="btn2">Кнопочка 2</string>
+    <string name="hello">Hello, HomeWork!</string>
+    <string name="chckbx">CheckBox</string>
 </resources>
