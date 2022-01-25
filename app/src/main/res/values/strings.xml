@@ -5,4 +5,9 @@
     <string name="hello">Hello, HomeWork!</string>
     <string name="check1">CheckBox</string>
     <string name="tgl1">OnOffBtn</string>
+    <string name="Name">Enter your Name, please!</string>
+    <string name="phone">Enter your Phone, please!</string>
+    <string name="number">Enter your Number, please!</string>
+    <string name="PW">Enter your password, please!</string>
+    <string name="email">Enter your @, please!</string>
 </resources>
