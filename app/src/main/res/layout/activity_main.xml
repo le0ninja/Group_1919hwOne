@@ -63,8 +63,19 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="@string/chckbx"
+        android:text="@string/check1"
         android:textColor="@color/teal_200" />
+    <ToggleButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tgl1"
+        android:backgroundTint="@color/red"/>
+    <CalendarView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layerType="software"
+        android:dateTextAppearance="red"
+        android:minDate="01/01/1988"/>
 
 
 </LinearLayout>
